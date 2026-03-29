@@ -10,7 +10,7 @@ Here are 8 actionable steps to protect your digital identity and finances:
 8. **UPI Safety Tip 2 (Limit Exposure):** Go into your banking app and set a daily UPI transaction limit (e.g., ₹2,000) so that if your phone is compromised, the financial damage is capped.
 
 ---
-🚨 **Emergency Reporting Channels in India:**
+**Emergency Reporting Channels in India:**
 If you experience cyber fraud, report it immediately to block the transaction:
 *   **National Cyber Crime Portal:** [cybercrime.gov.in](https://cybercrime.gov.in)
 *   **National Cybercrime Helpline:** Call **1930**
