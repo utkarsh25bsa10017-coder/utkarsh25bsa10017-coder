@@ -1,16 +1,16 @@
-## Hi there 👋
+Welcome to my GitHub profile! I'm currently a student at Vellore Institute of Technology (VIT), passionate about building scalable solutions and exploring new technologies. 
 
-<!--
-**utkarsh25bsa10017-coder/utkarsh25bsa10017-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 About Me
 
-Here are some ideas to get you started:
+- **Branch:** Btech in computer science Cloud Computing and automation
+- **Year:** first
+- **Current Focus:** I hope to deepen my understanding of AWS infrastructure, AI automation, and cloud architecture to build innovative, high-performance applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Interests
+
+- **Programming:** Python, Prolog ,c ,c++ ,java
+- **Core Interests:** Cloud Architecture, Aerospace & Unmanned Vehicles, E-commerce Automation, Mathematics & Statistics
+- **Current Projects:** Exploring cloud gaming software architectures and building automated workflows for dropshipping platforms.
+
+---
+📫 **How to reach me:** utkarsh.25bsa10017@vitbhopal.ac.in
