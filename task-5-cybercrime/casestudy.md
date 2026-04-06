@@ -1,5 +1,4 @@
-Gemini said
-Here is a fictional but highly realistic case study on UPI Fraud that you can copy directly into your casestudy.md file. It is exactly 233 words, fitting perfectly into the 200–250 word requirement.
+
 
 Case Study: The "Accidental Transfer" UPI Scam
 What the Crime Is:
